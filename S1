@@ -1,0 +1,10 @@
+function of main-branch
+{
+  here is the main branch config.
+}
+
+variables
+{
+  string var_of_master;
+  int var_of_int_master;
+}
