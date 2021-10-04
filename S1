@@ -1,10 +1,18 @@
 function of main-branch
 {
   here is the main branch config.
+  add 2nd commit for origin-master branch
 }
 
 variables
 {
   string var_of_master;
   int var_of_int_master;
+
+  double origin_master_branch_double_variable;
+}
+
+unicode
+{
+	master-origin:2dad23sjj#af22
 }
